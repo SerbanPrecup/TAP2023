@@ -1,0 +1,10 @@
+﻿  Banca.cpp
+  Client.cpp
+  ContBancar.cpp
+  ContBancarApp.cpp
+  Operatiuni.cpp
+C:\Users\precu\source\repos\Medii si instrumente de programare\Lab3\ContBancarApp\ContBancarApp\Operatiuni.cpp(6,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\precu\source\repos\Medii si instrumente de programare\Lab3\ContBancarApp\ContBancarApp\Operatiuni.cpp(8,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\precu\source\repos\Medii si instrumente de programare\Lab3\ContBancarApp\ContBancarApp\Operatiuni.cpp(13,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ContBancarApp.vcxproj -> C:\Users\precu\source\repos\Medii si instrumente de programare\Lab3\ContBancarApp\x64\Debug\ContBancarApp.exe
