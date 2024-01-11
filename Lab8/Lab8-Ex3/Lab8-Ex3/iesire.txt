@@ -1,0 +1,7 @@
+Linia 0:
+   Cuvantul: cinci, Aparitii: 1
+   Cuvantul: doi, Aparitii: 3
+   Cuvantul: patru, Aparitii: 2
+   Cuvantul: trei, Aparitii: 1
+   Cuvantul: unu, Aparitii: 2
+   Cuvantul: zece, Aparitii: 5
