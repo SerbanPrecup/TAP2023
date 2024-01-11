@@ -1,0 +1,19 @@
+﻿  Lab7-Ex1.cpp
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(59,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(80,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(80,14):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(107,15):
+  	see reference to function template instantiation 'int cautareBinara<int>(std::vector<int,std::allocator<int>>,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(40,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(40,8):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\Lab7-Ex1\Lab7-Ex1.cpp(108,2):
+  	see reference to function template instantiation 'void sortareBule<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  
+  Lab7-Ex1.vcxproj -> C:\Users\precu\source\repos\Tehnici avansate de programare\Lab7\Lab7-Ex1\x64\Debug\Lab7-Ex1.exe
