@@ -1,0 +1,5 @@
+prin intermediul iteratorilor.
+merele o au pe ana?
+care se refera la containere
+ana are mere.
+Algoritmii sunt functii generice,

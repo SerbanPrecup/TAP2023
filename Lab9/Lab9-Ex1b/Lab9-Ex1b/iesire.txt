@@ -1,0 +1,7 @@
+______________________________________
+| Algoritmii sunt functii generice,  |
+|____________________________________|
+| care se refera la containere       |
+|____________________________________|
+| prin intermediul iteratorilor.     |
+|____________________________________|

@@ -1,0 +1,7 @@
+﻿  Lab9-Ex1a.cpp
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab9\Lab9-Ex1a\Lab9-Ex1a\Lab9-Ex1a.cpp(24,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab9\Lab9-Ex1a\Lab9-Ex1a\Lab9-Ex1a.cpp(27,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab9\Lab9-Ex1a\Lab9-Ex1a\Lab9-Ex1a.cpp(35,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab9\Lab9-Ex1a\Lab9-Ex1a\Lab9-Ex1a.cpp(35,36): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\precu\source\repos\Tehnici avansate de programare\Lab9\Lab9-Ex1a\Lab9-Ex1a\Lab9-Ex1a.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Lab9-Ex1a.vcxproj -> C:\Users\precu\source\repos\Tehnici avansate de programare\Lab9\Lab9-Ex1a\x64\Debug\Lab9-Ex1a.exe
